@@ -1,16 +1,35 @@
-## Hi there 👋
+👨‍💻 Eduardo Yida
 
-<!--
-**eduardoyida/eduardoyida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em Ciência da Computação
+📍 Ribeirão Preto – SP
+🎯 Foco em Desenvolvimento Backend | Análise de Dados
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+
+Desenvolvedor em formação com foco em construção de APIs REST, bancos de dados relacionais e boas práticas de arquitetura backend.
+
+Atualmente aprofundando conhecimentos em:
+  - Node.js
+  - PostgreSQL
+  - SQL
+  - Docker
+
+Busco oportunidade como Estágio em desenvolvimento/Desenvolvedor Backend Júnior ou Estágio em Dados.
+
+
+🛠 Tecnologias
+
+-JavaScript | Node.js | Express
+
+-MongoDB
+
+-Git & GitHub
+
+-Python (para análise de dados)
+
+
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/eduardo-yida/
+Email: eduardoyida@gmail.com
