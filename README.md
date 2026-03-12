@@ -32,4 +32,5 @@ Busco oportunidade como Estágio em desenvolvimento/Desenvolvedor Backend Júnio
 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/eduardo-yida/
+
 Email: eduardoyida@gmail.com
